@@ -48,6 +48,8 @@ The procedures will create the tables in the running redshift cluster
   * second the tables are created
 
 # 3. Gather the data, prepate the dataset, and load the data into the different dimensional and fact tables
+> as an example, I kept a few CSV in each folder to demonstrate the CSV and JSON structure
+
 This process goes in two parts:
 
 ## 3.1. dimensional tables
