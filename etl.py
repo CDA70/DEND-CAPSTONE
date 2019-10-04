@@ -87,11 +87,9 @@ def main():
     cur = conn.cursor()
     
     if  RunDimOrFact == 'dim':
-        print('dim tables')
         truncate_dim_tables(cur, conn)
         load_dim_tables(cur, conn)
     elif RunDimOrFact == 'fact':
-        print('fact tables')
         truncate_fact_tables(cur, conn)
         load_fact_tables(cur, conn)    
     
