@@ -1,0 +1,505 @@
+0;MMM;3M Company;https://en.wikipedia.org/wiki/3M;Industrials;Industrial Conglomerates
+1;ABT;Abbott Laboratories;https://en.wikipedia.org/wiki/Abbott_Laboratories;Health Care;Health Care Equipment
+2;ABBV;AbbVie Inc.;https://en.wikipedia.org/wiki/AbbVie_Inc.;Health Care;Pharmaceuticals
+3;ABMD;ABIOMED Inc;https://en.wikipedia.org/wiki/Abiomed;Health Care;Health Care Equipment
+4;ACN;Accenture plc;https://en.wikipedia.org/wiki/Accenture_plc;Information Technology;IT Consulting & Other Services
+5;ATVI;Activision Blizzard;https://en.wikipedia.org/wiki/Activision_Blizzard;Communication Services;Interactive Home Entertainment
+6;ADBE;Adobe Systems Inc;https://en.wikipedia.org/wiki/Adobe_Systems_Inc;Information Technology;Application Software
+7;AMD;Advanced Micro Devices Inc;https://en.wikipedia.org/wiki/Advanced_Micro_Devices_Inc;Information Technology;Semiconductors
+8;AAP;Advance Auto Parts;https://en.wikipedia.org/wiki/Advance_Auto_Parts;Consumer Discretionary;Automotive Retail
+9;AES;AES Corp;https://en.wikipedia.org/wiki/AES_Corp;Utilities;Independent Power Producers & Energy Traders
+10;AMG;Affiliated Managers Group Inc;https://en.wikipedia.org/wiki/Affiliated_Managers_Group_Inc;Financials;Asset Management & Custody Banks
+11;AFL;AFLAC Inc;https://en.wikipedia.org/wiki/AFLAC_Inc;Financials;Life & Health Insurance
+12;A;Agilent Technologies Inc;https://en.wikipedia.org/wiki/Agilent_Technologies_Inc;Health Care;Health Care Equipment
+13;APD;Air Products & Chemicals Inc;https://en.wikipedia.org/wiki/Air_Products_%26_Chemicals_Inc;Materials;Industrial Gases
+14;AKAM;Akamai Technologies Inc;https://en.wikipedia.org/wiki/Akamai_Technologies_Inc;Information Technology;Internet Services & Infrastructure
+15;ALK;Alaska Air Group Inc;https://en.wikipedia.org/wiki/Alaska_Air_Group_Inc;Industrials;Airlines
+16;ALB;Albemarle Corp;https://en.wikipedia.org/wiki/Albemarle_Corp;Materials;Specialty Chemicals
+17;ARE;Alexandria Real Estate Equities;https://en.wikipedia.org/wiki/Alexandria_Real_Estate_Equities;Real Estate;Office REITs
+18;ALXN;Alexion Pharmaceuticals;https://en.wikipedia.org/wiki/Alexion_Pharmaceuticals;Health Care;Biotechnology
+19;ALGN;Align Technology;https://en.wikipedia.org/wiki/Align_Technology;Health Care;Health Care Supplies
+20;ALLE;Allegion;https://en.wikipedia.org/wiki/Allegion;Industrials;Building Products
+21;AGN;Allergan, Plc;https://en.wikipedia.org/wiki/Allergan,_Plc;Health Care;Pharmaceuticals
+22;ADS;Alliance Data Systems;https://en.wikipedia.org/wiki/Alliance_Data_Systems;Information Technology;Data Processing & Outsourced Services
+23;LNT;Alliant Energy Corp;https://en.wikipedia.org/wiki/Alliant_Energy_Corp;Utilities;Electric Utilities
+24;ALL;Allstate Corp;https://en.wikipedia.org/wiki/Allstate_Corp;Financials;Property & Casualty Insurance
+25;GOOGL;Alphabet Inc Class A;https://en.wikipedia.org/wiki/Alphabet_Inc.;Communication Services;Interactive Media & Services
+26;GOOG;Alphabet Inc Class C;https://en.wikipedia.org/wiki/Alphabet_Inc.;Communication Services;Interactive Media & Services
+27;MO;Altria Group Inc;https://en.wikipedia.org/wiki/Altria_Group_Inc;Consumer Staples;Tobacco
+28;AMZN;Amazon.com Inc.;https://en.wikipedia.org/wiki/Amazon.com_Inc.;Consumer Discretionary;Internet & Direct Marketing Retail
+29;AMCR;Amcor plc;https://en.wikipedia.org/wiki/Amcor_plc;Materials;Paper Packaging
+30;AEE;Ameren Corp;https://en.wikipedia.org/wiki/Ameren_Corp;Utilities;Multi-Utilities
+31;AAL;American Airlines Group;https://en.wikipedia.org/wiki/American_Airlines_Group;Industrials;Airlines
+32;AEP;American Electric Power;https://en.wikipedia.org/wiki/American_Electric_Power;Utilities;Electric Utilities
+33;AXP;American Express Co;https://en.wikipedia.org/wiki/American_Express_Co;Financials;Consumer Finance
+34;AIG;American International Group;https://en.wikipedia.org/wiki/American_International_Group;Financials;Property & Casualty Insurance
+35;AMT;American Tower Corp.;https://en.wikipedia.org/wiki/American_Tower_Corp.;Real Estate;Specialized REITs
+36;AWK;American Water Works Company Inc;https://en.wikipedia.org/wiki/American_Water_Works;Utilities;Water Utilities
+37;AMP;Ameriprise Financial;https://en.wikipedia.org/wiki/Ameriprise_Financial;Financials;Asset Management & Custody Banks
+38;ABC;AmerisourceBergen Corp;https://en.wikipedia.org/wiki/AmerisourceBergen_Corp;Health Care;Health Care Distributors
+39;AME;AMETEK Inc.;https://en.wikipedia.org/wiki/AMETEK_Inc.;Industrials;Electrical Components & Equipment
+40;AMGN;Amgen Inc.;https://en.wikipedia.org/wiki/Amgen_Inc.;Health Care;Biotechnology
+41;APH;Amphenol Corp;https://en.wikipedia.org/wiki/Amphenol_Corp;Information Technology;Electronic Components
+42;ADI;Analog Devices, Inc.;https://en.wikipedia.org/wiki/Analog_Devices,_Inc.;Information Technology;Semiconductors
+43;ANSS;ANSYS;https://en.wikipedia.org/wiki/ANSYS;Information Technology;Application Software
+44;ANTM;Anthem;https://en.wikipedia.org/wiki/Anthem_(company);Health Care;Managed Health Care
+45;AON;Aon plc;https://en.wikipedia.org/wiki/Aon_plc;Financials;Insurance Brokers
+46;AOS;A.O. Smith Corp;https://en.wikipedia.org/wiki/A.O._Smith_Corp;Industrials;Building Products
+47;APA;Apache Corporation;https://en.wikipedia.org/wiki/Apache_Corporation;Energy;Oil & Gas Exploration & Production
+48;AIV;Apartment Investment & Management;https://en.wikipedia.org/wiki/Apartment_Investment_%26_Management;Real Estate;Residential REITs
+49;AAPL;Apple Inc.;https://en.wikipedia.org/wiki/Apple_Inc.;Information Technology;Technology Hardware, Storage & Peripherals
+50;AMAT;Applied Materials Inc.;https://en.wikipedia.org/wiki/Applied_Materials_Inc.;Information Technology;Semiconductor Equipment
+51;APTV;Aptiv Plc;https://en.wikipedia.org/wiki/Aptiv_Plc;Consumer Discretionary;Auto Parts & Equipment
+52;ADM;Archer-Daniels-Midland Co;https://en.wikipedia.org/wiki/Archer-Daniels-Midland_Co;Consumer Staples;Agricultural Products
+53;ARNC;Arconic Inc.;https://en.wikipedia.org/wiki/Arconic_Inc.;Industrials;Aerospace & Defense
+54;ANET;Arista Networks;https://en.wikipedia.org/wiki/Arista_Networks;Information Technology;Communications Equipment
+55;AJG;Arthur J. Gallagher & Co.;https://en.wikipedia.org/wiki/Arthur_J._Gallagher_%26_Co.;Financials;Insurance Brokers
+56;AIZ;Assurant;https://en.wikipedia.org/wiki/Assurant;Financials;Multi-line Insurance
+57;ATO;Atmos Energy Corp;https://en.wikipedia.org/wiki/Atmos_Energy_Corp;Utilities;Gas Utilities
+58;T;AT&T Inc.;https://en.wikipedia.org/wiki/AT%26T_Inc.;Communication Services;Integrated Telecommunication Services
+59;ADSK;Autodesk Inc.;https://en.wikipedia.org/wiki/Autodesk_Inc.;Information Technology;Application Software
+60;ADP;Automatic Data Processing;https://en.wikipedia.org/wiki/Automatic_Data_Processing;Information Technology;Internet Services & Infrastructure
+61;AZO;AutoZone Inc;https://en.wikipedia.org/wiki/AutoZone_Inc;Consumer Discretionary;Specialty Stores
+62;AVB;AvalonBay Communities, Inc.;https://en.wikipedia.org/wiki/AvalonBay_Communities,_Inc.;Real Estate;Residential REITs
+63;AVY;Avery Dennison Corp;https://en.wikipedia.org/wiki/Avery_Dennison_Corp;Materials;Paper Packaging
+64;BHGE;Baker Hughes, a GE Company;https://en.wikipedia.org/wiki/Baker_Hughes,_a_GE_Company;Energy;Oil & Gas Equipment & Services
+65;BLL;Ball Corp;https://en.wikipedia.org/wiki/Ball_Corp;Materials;Metal & Glass Containers
+66;BAC;Bank of America Corp;https://en.wikipedia.org/wiki/Bank_of_America_Corp;Financials;Diversified Banks
+67;BK;The Bank of New York Mellon Corp.;https://en.wikipedia.org/wiki/The_Bank_of_New_York_Mellon_Corp.;Financials;Asset Management & Custody Banks
+68;BAX;Baxter International Inc.;https://en.wikipedia.org/wiki/Baxter_International_Inc.;Health Care;Health Care Equipment
+69;BBT;BB&T Corporation;https://en.wikipedia.org/wiki/BB%26T_Corporation;Financials;Regional Banks
+70;BDX;Becton Dickinson;https://en.wikipedia.org/wiki/Becton_Dickinson;Health Care;Health Care Equipment
+71;BRK-B;Berkshire Hathaway;https://en.wikipedia.org/wiki/Berkshire_Hathaway;Financials;Multi-Sector Holdings
+72;BBY;Best Buy Co. Inc.;https://en.wikipedia.org/wiki/Best_Buy_Co._Inc.;Consumer Discretionary;Computer & Electronics Retail
+73;BIIB;Biogen Inc.;https://en.wikipedia.org/wiki/Biogen_Inc.;Health Care;Biotechnology
+74;BLK;BlackRock;https://en.wikipedia.org/wiki/BlackRock;Financials;Asset Management & Custody Banks
+75;HRB;Block H&R;https://en.wikipedia.org/wiki/Block_H%26R;Consumer Discretionary;Specialized Consumer Services
+76;BA;Boeing Company;https://en.wikipedia.org/wiki/Boeing_Company;Industrials;Aerospace & Defense
+77;BKNG;Booking Holdings Inc;https://en.wikipedia.org/wiki/Booking_Holdings_Inc;Consumer Discretionary;Internet & Direct Marketing Retail
+78;BWA;BorgWarner;https://en.wikipedia.org/wiki/BorgWarner;Consumer Discretionary;Auto Parts & Equipment
+79;BXP;Boston Properties;https://en.wikipedia.org/wiki/Boston_Properties;Real Estate;Office REITs
+80;BSX;Boston Scientific;https://en.wikipedia.org/wiki/Boston_Scientific;Health Care;Health Care Equipment
+81;BMY;Bristol-Myers Squibb;https://en.wikipedia.org/wiki/Bristol-Myers_Squibb;Health Care;Health Care Distributors
+82;AVGO;Broadcom Inc.;https://en.wikipedia.org/wiki/Broadcom_Inc.;Information Technology;Semiconductors
+83;BR;Broadridge Financial Solutions;https://en.wikipedia.org/wiki/Broadridge_Financial_Solutions;Information Technology;Data Processing & Outsourced Services
+84;BF-B;Brown-Forman Corp.;https://en.wikipedia.org/wiki/Brown-Forman_Corp.;Consumer Staples;Distillers & Vintners
+85;CHRW;C. H. Robinson Worldwide;https://en.wikipedia.org/wiki/C._H._Robinson_Worldwide;Industrials;Air Freight & Logistics
+86;COG;Cabot Oil & Gas;https://en.wikipedia.org/wiki/Cabot_Oil_%26_Gas;Energy;Oil & Gas Exploration & Production
+87;CDNS;Cadence Design Systems;https://en.wikipedia.org/wiki/Cadence_Design_Systems;Information Technology;Application Software
+88;CPB;Campbell Soup;https://en.wikipedia.org/wiki/Campbell_Soup;Consumer Staples;Packaged Foods & Meats
+89;COF;Capital One Financial;https://en.wikipedia.org/wiki/Capital_One_Financial;Financials;Consumer Finance
+90;CPRI;Capri Holdings;https://en.wikipedia.org/wiki/Capri_Holdings;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+91;CAH;Cardinal Health Inc.;https://en.wikipedia.org/wiki/Cardinal_Health_Inc.;Health Care;Health Care Distributors
+92;KMX;Carmax Inc;https://en.wikipedia.org/wiki/Carmax_Inc;Consumer Discretionary;Specialty Stores
+93;CCL;Carnival Corp.;https://en.wikipedia.org/wiki/Carnival_Corp.;Consumer Discretionary;Hotels, Resorts & Cruise Lines
+94;CAT;Caterpillar Inc.;https://en.wikipedia.org/wiki/Caterpillar_Inc.;Industrials;Construction Machinery & Heavy Trucks
+95;CBOE;Cboe Global Markets;https://en.wikipedia.org/wiki/Cboe_Global_Markets;Financials;Financial Exchanges & Data
+96;CBRE;CBRE Group;https://en.wikipedia.org/wiki/CBRE_Group;Real Estate;Real Estate Services
+97;CBS;CBS Corp.;https://en.wikipedia.org/wiki/CBS_Corp.;Communication Services;Broadcasting
+98;CDW;CDW;https://en.wikipedia.org/wiki/CDW;Information Technology;Technology Distributors
+99;CE;Celanese;https://en.wikipedia.org/wiki/Celanese;Materials;Specialty Chemicals
+100;CELG;Celgene Corp.;https://en.wikipedia.org/wiki/Celgene_Corp.;Health Care;Biotechnology
+101;CNC;Centene Corporation;https://en.wikipedia.org/wiki/Centene_Corporation;Health Care;Managed Health Care
+102;CNP;CenterPoint Energy;https://en.wikipedia.org/wiki/CenterPoint_Energy;Utilities;Multi-Utilities
+103;CTL;CenturyLink Inc;https://en.wikipedia.org/wiki/CenturyLink_Inc;Communication Services;Integrated Telecommunication Services
+104;CERN;Cerner;https://en.wikipedia.org/wiki/Cerner;Health Care;Health Care Technology
+105;CF;CF Industries Holdings Inc;https://en.wikipedia.org/wiki/CF_Industries_Holdings_Inc;Materials;Fertilizers & Agricultural Chemicals
+106;SCHW;Charles Schwab Corporation;https://en.wikipedia.org/wiki/Charles_Schwab_Corporation;Financials;Investment Banking & Brokerage
+107;CHTR;Charter Communications;https://en.wikipedia.org/wiki/Charter_Communications;Communication Services;Cable & Satellite
+108;CVX;Chevron Corp.;https://en.wikipedia.org/wiki/Chevron_Corp.;Energy;Integrated Oil & Gas
+109;CMG;Chipotle Mexican Grill;https://en.wikipedia.org/wiki/Chipotle_Mexican_Grill;Consumer Discretionary;Restaurants
+110;CB;Chubb Limited;https://en.wikipedia.org/wiki/Chubb_Limited;Financials;Property & Casualty Insurance
+111;CHD;Church & Dwight;https://en.wikipedia.org/wiki/Church_%26_Dwight;Consumer Staples;Household Products
+112;CI;CIGNA Corp.;https://en.wikipedia.org/wiki/CIGNA_Corp.;Health Care;Managed Health Care
+113;XEC;Cimarex Energy;https://en.wikipedia.org/wiki/Cimarex_Energy;Energy;Oil & Gas Exploration & Production
+114;CINF;Cincinnati Financial;https://en.wikipedia.org/wiki/Cincinnati_Financial;Financials;Property & Casualty Insurance
+115;CTAS;Cintas Corporation;https://en.wikipedia.org/wiki/Cintas_Corporation;Industrials;Diversified Support Services
+116;CSCO;Cisco Systems;https://en.wikipedia.org/wiki/Cisco_Systems;Information Technology;Communications Equipment
+117;C;Citigroup Inc.;https://en.wikipedia.org/wiki/Citigroup_Inc.;Financials;Diversified Banks
+118;CFG;Citizens Financial Group;https://en.wikipedia.org/wiki/Citizens_Financial_Group;Financials;Regional Banks
+119;CTXS;Citrix Systems;https://en.wikipedia.org/wiki/Citrix_Systems;Information Technology;Application Software
+120;CLX;The Clorox Company;https://en.wikipedia.org/wiki/The_Clorox_Company;Consumer Staples;Household Products
+121;CME;CME Group Inc.;https://en.wikipedia.org/wiki/CME_Group_Inc.;Financials;Financial Exchanges & Data
+122;CMS;CMS Energy;https://en.wikipedia.org/wiki/CMS_Energy;Utilities;Multi-Utilities
+123;KO;Coca-Cola Company;https://en.wikipedia.org/wiki/Coca-Cola_Company;Consumer Staples;Soft Drinks
+124;CTSH;Cognizant Technology Solutions;https://en.wikipedia.org/wiki/Cognizant_Technology_Solutions;Information Technology;IT Consulting & Other Services
+125;CL;Colgate-Palmolive;https://en.wikipedia.org/wiki/Colgate-Palmolive;Consumer Staples;Household Products
+126;CMCSA;Comcast Corp.;https://en.wikipedia.org/wiki/Comcast_Corp.;Communication Services;Cable & Satellite
+127;CMA;Comerica Inc.;https://en.wikipedia.org/wiki/Comerica_Inc.;Financials;Diversified Banks
+128;CAG;Conagra Brands;https://en.wikipedia.org/wiki/Conagra_Brands;Consumer Staples;Packaged Foods & Meats
+129;CXO;Concho Resources;https://en.wikipedia.org/wiki/Concho_Resources;Energy;Oil & Gas Exploration & Production
+130;COP;ConocoPhillips;https://en.wikipedia.org/wiki/ConocoPhillips;Energy;Oil & Gas Exploration & Production
+131;ED;Consolidated Edison;https://en.wikipedia.org/wiki/Consolidated_Edison;Utilities;Electric Utilities
+132;STZ;Constellation Brands;https://en.wikipedia.org/wiki/Constellation_Brands;Consumer Staples;Distillers & Vintners
+133;COO;The Cooper Companies;https://en.wikipedia.org/wiki/The_Cooper_Companies;Health Care;Health Care Supplies
+134;CPRT;Copart Inc;https://en.wikipedia.org/wiki/Copart_Inc;Industrials;Diversified Support Services
+135;GLW;Corning Inc.;https://en.wikipedia.org/wiki/Corning_Inc.;Information Technology;Electronic Components
+136;CTVA;Corteva;https://en.wikipedia.org/wiki/Corteva;Materials;Fertilizers & Agricultural Chemicals
+137;COST;Costco Wholesale Corp.;https://en.wikipedia.org/wiki/Costco_Wholesale_Corp.;Consumer Staples;Hypermarkets & Super Centers
+138;COTY;Coty, Inc;https://en.wikipedia.org/wiki/Coty,_Inc;Consumer Staples;Personal Products
+139;CCI;Crown Castle International Corp.;https://en.wikipedia.org/wiki/Crown_Castle_International_Corp.;Real Estate;Specialized REITs
+140;CSX;CSX Corp.;https://en.wikipedia.org/wiki/CSX_Corp.;Industrials;Railroads
+141;CMI;Cummins Inc.;https://en.wikipedia.org/wiki/Cummins_Inc.;Industrials;Industrial Machinery
+142;CVS;CVS Health;https://en.wikipedia.org/wiki/CVS_Health;Health Care;Health Care Services
+143;DHI;D. R. Horton;https://en.wikipedia.org/wiki/D._R._Horton;Consumer Discretionary;Homebuilding
+144;DHR;Danaher Corp.;https://en.wikipedia.org/wiki/Danaher_Corp.;Health Care;Health Care Equipment
+145;DRI;Darden Restaurants;https://en.wikipedia.org/wiki/Darden_Restaurants;Consumer Discretionary;Restaurants
+146;DVA;DaVita Inc.;https://en.wikipedia.org/wiki/DaVita_Inc.;Health Care;Health Care Facilities
+147;DE;Deere & Co.;https://en.wikipedia.org/wiki/Deere_%26_Co.;Industrials;Agricultural & Farm Machinery
+148;DAL;Delta Air Lines Inc.;https://en.wikipedia.org/wiki/Delta_Air_Lines_Inc.;Industrials;Airlines
+149;XRAY;Dentsply Sirona;https://en.wikipedia.org/wiki/Dentsply_Sirona;Health Care;Health Care Supplies
+150;DVN;Devon Energy;https://en.wikipedia.org/wiki/Devon_Energy;Energy;Oil & Gas Exploration & Production
+151;FANG;Diamondback Energy;https://en.wikipedia.org/wiki/Diamondback_Energy;Energy;Oil & Gas Exploration & Production
+152;DLR;Digital Realty Trust Inc;https://en.wikipedia.org/wiki/Digital_Realty_Trust;Real Estate;Specialized REITs
+153;DFS;Discover Financial Services;https://en.wikipedia.org/wiki/Discover_Financial_Services;Financials;Consumer Finance
+154;DISCA;Discovery Inc. Class A;https://en.wikipedia.org/wiki/Discovery,_Inc.;Communication Services;Broadcasting
+155;DISCK;Discovery Inc. Class C;https://en.wikipedia.org/wiki/Discovery,_Inc.;Communication Services;Broadcasting
+156;DISH;Dish Network;https://en.wikipedia.org/wiki/Dish_Network;Communication Services;Cable & Satellite
+157;DG;Dollar General;https://en.wikipedia.org/wiki/Dollar_General;Consumer Discretionary;General Merchandise Stores
+158;DLTR;Dollar Tree;https://en.wikipedia.org/wiki/Dollar_Tree;Consumer Discretionary;General Merchandise Stores
+159;D;Dominion Energy;https://en.wikipedia.org/wiki/Dominion_Energy;Utilities;Electric Utilities
+160;DOV;Dover Corp.;https://en.wikipedia.org/wiki/Dover_Corp.;Industrials;Industrial Machinery
+161;DOW;Dow Inc.;https://en.wikipedia.org/wiki/Dow_Inc.;Materials;Commodity Chemicals
+162;DTE;DTE Energy Co.;https://en.wikipedia.org/wiki/DTE_Energy_Co.;Utilities;Multi-Utilities
+163;DUK;Duke Energy;https://en.wikipedia.org/wiki/Duke_Energy;Utilities;Electric Utilities
+164;DRE;Duke Realty Corp;https://en.wikipedia.org/wiki/Duke_Realty_Corp;Real Estate;Industrial REITs
+165;DD;DuPont de Nemours Inc;https://en.wikipedia.org/wiki/DuPont_de_Nemours_Inc;Materials;Specialty Chemicals
+166;DXC;DXC Technology;https://en.wikipedia.org/wiki/DXC_Technology;Information Technology;IT Consulting & Other Services
+167;ETFC;E*Trade;https://en.wikipedia.org/wiki/E*Trade;Financials;Investment Banking & Brokerage
+168;EMN;Eastman Chemical;https://en.wikipedia.org/wiki/Eastman_Chemical;Materials;Diversified Chemicals
+169;ETN;Eaton Corporation;https://en.wikipedia.org/wiki/Eaton_Corporation;Industrials;Electrical Components & Equipment
+170;EBAY;eBay Inc.;https://en.wikipedia.org/wiki/EBay_Inc.;Consumer Discretionary;Internet & Direct Marketing Retail
+171;ECL;Ecolab Inc.;https://en.wikipedia.org/wiki/Ecolab_Inc.;Materials;Specialty Chemicals
+172;EIX;Edison Int'l;https://en.wikipedia.org/wiki/Edison_Int%27l;Utilities;Electric Utilities
+173;EW;Edwards Lifesciences;https://en.wikipedia.org/wiki/Edwards_Lifesciences;Health Care;Health Care Equipment
+174;EA;Electronic Arts;https://en.wikipedia.org/wiki/Electronic_Arts;Communication Services;Interactive Home Entertainment
+175;EMR;Emerson Electric Company;https://en.wikipedia.org/wiki/Emerson_Electric_Company;Industrials;Electrical Components & Equipment
+176;ETR;Entergy Corp.;https://en.wikipedia.org/wiki/Entergy_Corp.;Utilities;Electric Utilities
+177;EOG;EOG Resources;https://en.wikipedia.org/wiki/EOG_Resources;Energy;Oil & Gas Exploration & Production
+178;EFX;Equifax Inc.;https://en.wikipedia.org/wiki/Equifax_Inc.;Industrials;Research & Consulting Services
+179;EQIX;Equinix;https://en.wikipedia.org/wiki/Equinix;Real Estate;Specialized REITs
+180;EQR;Equity Residential;https://en.wikipedia.org/wiki/Equity_Residential;Real Estate;Residential REITs
+181;ESS;Essex Property Trust, Inc.;https://en.wikipedia.org/wiki/Essex_Property_Trust,_Inc.;Real Estate;Residential REITs
+182;EL;Estee Lauder Cos.;https://en.wikipedia.org/wiki/Estee_Lauder_Cos.;Consumer Staples;Personal Products
+183;EVRG;Evergy;https://en.wikipedia.org/wiki/Evergy;Utilities;Electric Utilities
+184;ES;Eversource Energy;https://en.wikipedia.org/wiki/Eversource_Energy;Utilities;Multi-Utilities
+185;RE;Everest Re Group Ltd.;https://en.wikipedia.org/wiki/Everest_Re;Financials;Reinsurance
+186;EXC;Exelon Corp.;https://en.wikipedia.org/wiki/Exelon_Corp.;Utilities;Multi-Utilities
+187;EXPE;Expedia Group;https://en.wikipedia.org/wiki/Expedia_Group;Consumer Discretionary;Internet & Direct Marketing Retail
+188;EXPD;Expeditors;https://en.wikipedia.org/wiki/Expeditors_International;Industrials;Air Freight & Logistics
+189;EXR;Extra Space Storage;https://en.wikipedia.org/wiki/Extra_Space_Storage;Real Estate;Specialized REITs
+190;XOM;Exxon Mobil Corp.;https://en.wikipedia.org/wiki/Exxon_Mobil_Corp.;Energy;Integrated Oil & Gas
+191;FFIV;F5 Networks;https://en.wikipedia.org/wiki/F5_Networks;Information Technology;Communications Equipment
+192;FB;Facebook, Inc.;https://en.wikipedia.org/wiki/Facebook,_Inc.;Communication Services;Interactive Media & Services
+193;FAST;Fastenal Co;https://en.wikipedia.org/wiki/Fastenal_Co;Industrials;Building Products
+194;FRT;Federal Realty Investment Trust;https://en.wikipedia.org/wiki/Federal_Realty_Investment_Trust;Real Estate;Retail REITs
+195;FDX;FedEx Corporation;https://en.wikipedia.org/wiki/FedEx_Corporation;Industrials;Air Freight & Logistics
+196;FIS;Fidelity National Information Services;https://en.wikipedia.org/wiki/Fidelity_National_Information_Services;Information Technology;Data Processing & Outsourced Services
+197;FITB;Fifth Third Bancorp;https://en.wikipedia.org/wiki/Fifth_Third_Bancorp;Financials;Regional Banks
+198;FE;FirstEnergy Corp;https://en.wikipedia.org/wiki/FirstEnergy_Corp;Utilities;Electric Utilities
+199;FRC;First Republic Bank;https://en.wikipedia.org/wiki/First_Republic_Bank;Financials;Regional Banks
+200;FISV;Fiserv Inc;https://en.wikipedia.org/wiki/Fiserv_Inc;Information Technology;Data Processing & Outsourced Services
+201;FLT;FleetCor Technologies Inc;https://en.wikipedia.org/wiki/Fleetcor;Information Technology;Data Processing & Outsourced Services
+202;FLIR;FLIR Systems;https://en.wikipedia.org/wiki/FLIR_Systems;Information Technology;Electronic Equipment & Instruments
+203;FLS;Flowserve Corporation;https://en.wikipedia.org/wiki/Flowserve_Corporation;Industrials;Industrial Machinery
+204;FMC;FMC Corporation;https://en.wikipedia.org/wiki/FMC_Corporation;Materials;Fertilizers & Agricultural Chemicals
+205;F;Ford Motor;https://en.wikipedia.org/wiki/Ford_Motor;Consumer Discretionary;Automobile Manufacturers
+206;FTNT;Fortinet;https://en.wikipedia.org/wiki/Fortinet;Information Technology;Systems Software
+207;FTV;Fortive Corp;https://en.wikipedia.org/wiki/Fortive_Corp;Industrials;Industrial Machinery
+208;FBHS;Fortune Brands Home & Security;https://en.wikipedia.org/wiki/Fortune_Brands_Home_%26_Security;Industrials;Building Products
+209;FOXA;Fox Corporation Class A;https://en.wikipedia.org/wiki/Fox_Corporation_Class_A;Communication Services;Movies & Entertainment
+210;FOX;Fox Corporation Class B;https://en.wikipedia.org/wiki/Fox_Corporation_Class_B;Communication Services;Movies & Entertainment
+211;BEN;Franklin Resources;https://en.wikipedia.org/wiki/Franklin_Resources;Financials;Asset Management & Custody Banks
+212;FCX;Freeport-McMoRan Inc.;https://en.wikipedia.org/wiki/Freeport-McMoRan_Inc.;Materials;Copper
+213;GPS;Gap Inc.;https://en.wikipedia.org/wiki/Gap_Inc.;Consumer Discretionary;Apparel Retail
+214;GRMN;Garmin Ltd.;https://en.wikipedia.org/wiki/Garmin_Ltd.;Consumer Discretionary;Consumer Electronics
+215;IT;Gartner Inc;https://en.wikipedia.org/wiki/Gartner;Information Technology;IT Consulting & Other Services
+216;GD;General Dynamics;https://en.wikipedia.org/wiki/General_Dynamics;Industrials;Aerospace & Defense
+217;GE;General Electric;https://en.wikipedia.org/wiki/General_Electric;Industrials;Industrial Conglomerates
+218;GIS;General Mills;https://en.wikipedia.org/wiki/General_Mills;Consumer Staples;Packaged Foods & Meats
+219;GM;General Motors;https://en.wikipedia.org/wiki/General_Motors;Consumer Discretionary;Automobile Manufacturers
+220;GPC;Genuine Parts;https://en.wikipedia.org/wiki/Genuine_Parts;Consumer Discretionary;Specialty Stores
+221;GILD;Gilead Sciences;https://en.wikipedia.org/wiki/Gilead_Sciences;Health Care;Biotechnology
+222;GL;Globe Life Inc.;https://en.wikipedia.org/wiki/Torchmark_Corp.;Financials;Life & Health Insurance
+223;GPN;Global Payments Inc.;https://en.wikipedia.org/wiki/Global_Payments_Inc.;Information Technology;Data Processing & Outsourced Services
+224;GS;Goldman Sachs Group;https://en.wikipedia.org/wiki/Goldman_Sachs_Group;Financials;Investment Banking & Brokerage
+225;GWW;Grainger (W.W.) Inc.;https://en.wikipedia.org/wiki/Grainger_(W.W.)_Inc.;Industrials;Industrial Machinery
+226;HAL;Halliburton Co.;https://en.wikipedia.org/wiki/Halliburton_Co.;Energy;Oil & Gas Equipment & Services
+227;HBI;Hanesbrands Inc;https://en.wikipedia.org/wiki/Hanesbrands_Inc;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+228;HOG;Harley-Davidson;https://en.wikipedia.org/wiki/Harley-Davidson;Consumer Discretionary;Motorcycle Manufacturers
+229;HIG;Hartford Financial Svc.Gp.;https://en.wikipedia.org/wiki/Hartford_Financial_Svc.Gp.;Financials;Property & Casualty Insurance
+230;HAS;Hasbro Inc.;https://en.wikipedia.org/wiki/Hasbro_Inc.;Consumer Discretionary;Leisure Products
+231;HCA;HCA Healthcare;https://en.wikipedia.org/wiki/HCA_Healthcare;Health Care;Health Care Facilities
+232;HCP;HCP Inc.;https://en.wikipedia.org/wiki/HCP_Inc.;Real Estate;Health Care REITs
+233;HP;Helmerich & Payne;https://en.wikipedia.org/wiki/Helmerich_%26_Payne;Energy;Oil & Gas Drilling
+234;HSIC;Henry Schein;https://en.wikipedia.org/wiki/Henry_Schein;Health Care;Health Care Distributors
+235;HSY;The Hershey Company;https://en.wikipedia.org/wiki/The_Hershey_Company;Consumer Staples;Packaged Foods & Meats
+236;HES;Hess Corporation;https://en.wikipedia.org/wiki/Hess_Corporation;Energy;Integrated Oil & Gas
+237;HPE;Hewlett Packard Enterprise;https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise;Information Technology;Technology Hardware, Storage & Peripherals
+238;HLT;Hilton Worldwide Holdings Inc;https://en.wikipedia.org/wiki/Hilton_Worldwide_Holdings_Inc;Consumer Discretionary;Hotels, Resorts & Cruise Lines
+239;HFC;HollyFrontier Corp;https://en.wikipedia.org/wiki/HollyFrontier;Energy;Oil & Gas Refining & Marketing
+240;HOLX;Hologic;https://en.wikipedia.org/wiki/Hologic;Health Care;Health Care Equipment
+241;HD;Home Depot;https://en.wikipedia.org/wiki/Home_Depot;Consumer Discretionary;Home Improvement Retail
+242;HON;Honeywell Int'l Inc.;https://en.wikipedia.org/wiki/Honeywell_Int%27l_Inc.;Industrials;Industrial Conglomerates
+243;HRL;Hormel Foods Corp.;https://en.wikipedia.org/wiki/Hormel_Foods_Corp.;Consumer Staples;Packaged Foods & Meats
+244;HST;Host Hotels & Resorts;https://en.wikipedia.org/wiki/Host_Hotels_%26_Resorts;Real Estate;Hotel & Resort REITs
+245;HPQ;HP Inc.;https://en.wikipedia.org/wiki/HP_Inc.;Information Technology;Technology Hardware, Storage & Peripherals
+246;HUM;Humana Inc.;https://en.wikipedia.org/wiki/Humana_Inc.;Health Care;Managed Health Care
+247;HBAN;Huntington Bancshares;https://en.wikipedia.org/wiki/Huntington_Bancshares;Financials;Regional Banks
+248;HII;Huntington Ingalls Industries;https://en.wikipedia.org/wiki/Huntington_Ingalls_Industries;Industrials;Aerospace & Defense
+249;IEX;IDEX Corporation;https://en.wikipedia.org/wiki/IDEX_Corporation;Industrials;Industrial Machinery
+250;IDXX;IDEXX Laboratories;https://en.wikipedia.org/wiki/Idexx_Laboratories;Health Care;Health Care Equipment
+251;INFO;IHS Markit Ltd.;https://en.wikipedia.org/wiki/IHS_Markit;Industrials;Research & Consulting Services
+252;ITW;Illinois Tool Works;https://en.wikipedia.org/wiki/Illinois_Tool_Works;Industrials;Industrial Machinery
+253;ILMN;Illumina Inc;https://en.wikipedia.org/wiki/Illumina_(company);Health Care;Life Sciences Tools & Services
+254;IR;Ingersoll-Rand PLC;https://en.wikipedia.org/wiki/Ingersoll-Rand_PLC;Industrials;Industrial Machinery
+255;INTC;Intel Corp.;https://en.wikipedia.org/wiki/Intel_Corp.;Information Technology;Semiconductors
+256;ICE;Intercontinental Exchange;https://en.wikipedia.org/wiki/Intercontinental_Exchange;Financials;Financial Exchanges & Data
+257;IBM;International Business Machines;https://en.wikipedia.org/wiki/IBM;Information Technology;IT Consulting & Other Services
+258;INCY;Incyte;https://en.wikipedia.org/wiki/Incyte;Health Care;Biotechnology
+259;IP;International Paper;https://en.wikipedia.org/wiki/International_Paper;Materials;Paper Packaging
+260;IPG;Interpublic Group;https://en.wikipedia.org/wiki/Interpublic_Group;Communication Services;Advertising
+261;IFF;Intl Flavors & Fragrances;https://en.wikipedia.org/wiki/Intl_Flavors_%26_Fragrances;Materials;Specialty Chemicals
+262;INTU;Intuit Inc.;https://en.wikipedia.org/wiki/Intuit_Inc.;Information Technology;Application Software
+263;ISRG;Intuitive Surgical Inc.;https://en.wikipedia.org/wiki/Intuitive_Surgical_Inc.;Health Care;Health Care Equipment
+264;IVZ;Invesco Ltd.;https://en.wikipedia.org/wiki/Invesco_Ltd.;Financials;Asset Management & Custody Banks
+265;IPGP;IPG Photonics Corp.;https://en.wikipedia.org/wiki/IPG_Photonics;Information Technology;Electronic Manufacturing Services
+266;IQV;IQVIA Holdings Inc.;https://en.wikipedia.org/wiki/IQVIA;Health Care;Life Sciences Tools & Services
+267;IRM;Iron Mountain Incorporated;https://en.wikipedia.org/wiki/Iron_Mountain_Incorporated;Real Estate;Specialized REITs
+268;JKHY;Jack Henry & Associates;https://en.wikipedia.org/wiki/Jack_Henry_%26_Associates;Information Technology;Data Processing & Outsourced Services
+269;JEC;Jacobs Engineering Group;https://en.wikipedia.org/wiki/Jacobs_Engineering_Group;Industrials;Construction & Engineering
+270;JBHT;J. B. Hunt Transport Services;https://en.wikipedia.org/wiki/J._B._Hunt_Transport_Services;Industrials;Trucking
+271;SJM;JM Smucker;https://en.wikipedia.org/wiki/JM_Smucker;Consumer Staples;Packaged Foods & Meats
+272;JNJ;Johnson & Johnson;https://en.wikipedia.org/wiki/Johnson_%26_Johnson;Health Care;Pharmaceuticals
+273;JCI;Johnson Controls International;https://en.wikipedia.org/wiki/Johnson_Controls;Industrials;Building Products
+274;JPM;JPMorgan Chase & Co.;https://en.wikipedia.org/wiki/JPMorgan_Chase_%26_Co.;Financials;Diversified Banks
+275;JNPR;Juniper Networks;https://en.wikipedia.org/wiki/Juniper_Networks;Information Technology;Communications Equipment
+276;KSU;Kansas City Southern;https://en.wikipedia.org/wiki/Kansas_City_Southern_(company);Industrials;Railroads
+277;K;Kellogg Co.;https://en.wikipedia.org/wiki/Kellogg_Co.;Consumer Staples;Packaged Foods & Meats
+278;KEY;KeyCorp;https://en.wikipedia.org/wiki/KeyCorp;Financials;Regional Banks
+279;KEYS;Keysight Technologies;https://en.wikipedia.org/wiki/Keysight_Technologies;Information Technology;Electronic Equipment & Instruments
+280;KMB;Kimberly-Clark;https://en.wikipedia.org/wiki/Kimberly-Clark;Consumer Staples;Household Products
+281;KIM;Kimco Realty;https://en.wikipedia.org/wiki/Kimco_Realty;Real Estate;Retail REITs
+282;KMI;Kinder Morgan;https://en.wikipedia.org/wiki/Kinder_Morgan;Energy;Oil & Gas Storage & Transportation
+283;KLAC;KLA Corporation;https://en.wikipedia.org/wiki/KLA_Corporation;Information Technology;Semiconductor Equipment
+284;KSS;Kohl's Corp.;https://en.wikipedia.org/wiki/Kohl%27s_Corp.;Consumer Discretionary;General Merchandise Stores
+285;KHC;Kraft Heinz Co;https://en.wikipedia.org/wiki/Kraft_Heinz;Consumer Staples;Packaged Foods & Meats
+286;KR;Kroger Co.;https://en.wikipedia.org/wiki/Kroger_Co.;Consumer Staples;Food Retail
+287;LB;L Brands Inc.;https://en.wikipedia.org/wiki/L_Brands_Inc.;Consumer Discretionary;Apparel Retail
+288;LHX;L3Harris Technologies;https://en.wikipedia.org/wiki/L3Harris_Technologies;Industrials;Aerospace & Defense
+289;LH;Laboratory Corp. of America Holding;https://en.wikipedia.org/wiki/Laboratory_Corp._of_America_Holding;Health Care;Health Care Services
+290;LRCX;Lam Research;https://en.wikipedia.org/wiki/Lam_Research;Information Technology;Semiconductor Equipment
+291;LW;Lamb Weston Holdings Inc;https://en.wikipedia.org/wiki/Lamb_Weston_Holdings_Inc;Consumer Staples;Packaged Foods & Meats
+292;LEG;Leggett & Platt;https://en.wikipedia.org/wiki/Leggett_%26_Platt;Consumer Discretionary;Home Furnishings
+293;LDOS;Leidos Holdings;https://en.wikipedia.org/wiki/Leidos_Holdings;Information Technology;IT Consulting & Other Services
+294;LEN;Lennar Corp.;https://en.wikipedia.org/wiki/Lennar_Corp.;Consumer Discretionary;Homebuilding
+295;LLY;Lilly (Eli) & Co.;https://en.wikipedia.org/wiki/Lilly_(Eli)_%26_Co.;Health Care;Pharmaceuticals
+296;LNC;Lincoln National;https://en.wikipedia.org/wiki/Lincoln_National;Financials;Multi-line Insurance
+297;LIN;Linde plc;https://en.wikipedia.org/wiki/Linde_plc;Materials;Industrial Gases
+298;LKQ;LKQ Corporation;https://en.wikipedia.org/wiki/LKQ_Corporation;Consumer Discretionary;Distributors
+299;LMT;Lockheed Martin Corp.;https://en.wikipedia.org/wiki/Lockheed_Martin_Corp.;Industrials;Aerospace & Defense
+300;L;Loews Corp.;https://en.wikipedia.org/wiki/Loews_Corp.;Financials;Multi-line Insurance
+301;LOW;Lowe's Cos.;https://en.wikipedia.org/wiki/Lowe%27s_Cos.;Consumer Discretionary;Home Improvement Retail
+302;LYB;LyondellBasell;https://en.wikipedia.org/wiki/LyondellBasell;Materials;Specialty Chemicals
+303;MTB;M&T Bank Corp.;https://en.wikipedia.org/wiki/M%26T_Bank_Corp.;Financials;Regional Banks
+304;MAC;Macerich;https://en.wikipedia.org/wiki/Macerich;Real Estate;Retail REITs
+305;M;Macy's Inc.;https://en.wikipedia.org/wiki/Macy%27s_Inc.;Consumer Discretionary;Department Stores
+306;MRO;Marathon Oil Corp.;https://en.wikipedia.org/wiki/Marathon_Oil_Corp.;Energy;Oil & Gas Exploration & Production
+307;MPC;Marathon Petroleum;https://en.wikipedia.org/wiki/Marathon_Petroleum;Energy;Oil & Gas Refining & Marketing
+308;MKTX;MarketAxess;https://en.wikipedia.org/wiki/MarketAxess;Financials;Financial Exchanges & Data
+309;MAR;Marriott Int'l.;https://en.wikipedia.org/wiki/Marriott_Int%27l.;Consumer Discretionary;Hotels, Resorts & Cruise Lines
+310;MMC;Marsh & McLennan;https://en.wikipedia.org/wiki/Marsh_%26_McLennan;Financials;Insurance Brokers
+311;MLM;Martin Marietta Materials;https://en.wikipedia.org/wiki/Martin_Marietta_Materials;Materials;Construction Materials
+312;MAS;Masco Corp.;https://en.wikipedia.org/wiki/Masco_Corp.;Industrials;Building Products
+313;MA;Mastercard Inc.;https://en.wikipedia.org/wiki/Mastercard_Inc.;Information Technology;Data Processing & Outsourced Services
+314;MKC;McCormick & Co.;https://en.wikipedia.org/wiki/McCormick_%26_Co.;Consumer Staples;Packaged Foods & Meats
+315;MXIM;Maxim Integrated Products Inc;https://en.wikipedia.org/wiki/Maxim_Integrated;Information Technology;Semiconductors
+316;MCD;McDonald's Corp.;https://en.wikipedia.org/wiki/McDonald%27s_Corp.;Consumer Discretionary;Restaurants
+317;MCK;McKesson Corp.;https://en.wikipedia.org/wiki/McKesson_Corp.;Health Care;Health Care Distributors
+318;MDT;Medtronic plc;https://en.wikipedia.org/wiki/Medtronic_plc;Health Care;Health Care Equipment
+319;MRK;Merck & Co.;https://en.wikipedia.org/wiki/Merck_%26_Co.;Health Care;Pharmaceuticals
+320;MET;MetLife Inc.;https://en.wikipedia.org/wiki/MetLife_Inc.;Financials;Life & Health Insurance
+321;MTD;Mettler Toledo;https://en.wikipedia.org/wiki/Mettler_Toledo;Health Care;Life Sciences Tools & Services
+322;MGM;MGM Resorts International;https://en.wikipedia.org/wiki/MGM_Resorts_International;Consumer Discretionary;Casinos & Gaming
+323;MCHP;Microchip Technology;https://en.wikipedia.org/wiki/Microchip_Technology;Information Technology;Semiconductors
+324;MU;Micron Technology;https://en.wikipedia.org/wiki/Micron_Technology;Information Technology;Semiconductors
+325;MSFT;Microsoft Corp.;https://en.wikipedia.org/wiki/Microsoft_Corp.;Information Technology;Systems Software
+326;MAA;Mid-America Apartments;https://en.wikipedia.org/wiki/Mid-America_Apartments;Real Estate;Residential REITs
+327;MHK;Mohawk Industries;https://en.wikipedia.org/wiki/Mohawk_Industries;Consumer Discretionary;Home Furnishings
+328;TAP;Molson Coors Brewing Company;https://en.wikipedia.org/wiki/Molson_Coors_Brewing_Company;Consumer Staples;Brewers
+329;MDLZ;Mondelez International;https://en.wikipedia.org/wiki/Mondelez_International;Consumer Staples;Packaged Foods & Meats
+330;MNST;Monster Beverage;https://en.wikipedia.org/wiki/Monster_Beverage;Consumer Staples;Soft Drinks
+331;MCO;Moody's Corp;https://en.wikipedia.org/wiki/Moody%27s_Corp;Financials;Financial Exchanges & Data
+332;MS;Morgan Stanley;https://en.wikipedia.org/wiki/Morgan_Stanley;Financials;Investment Banking & Brokerage
+333;MOS;The Mosaic Company;https://en.wikipedia.org/wiki/The_Mosaic_Company;Materials;Fertilizers & Agricultural Chemicals
+334;MSI;Motorola Solutions Inc.;https://en.wikipedia.org/wiki/Motorola_Solutions_Inc.;Information Technology;Communications Equipment
+335;MSCI;MSCI Inc;https://en.wikipedia.org/wiki/MSCI_Inc;Financials;Financial Exchanges & Data
+336;MYL;Mylan N.V.;https://en.wikipedia.org/wiki/Mylan_N.V.;Health Care;Pharmaceuticals
+337;NDAQ;Nasdaq, Inc.;https://en.wikipedia.org/wiki/Nasdaq,_Inc.;Financials;Financial Exchanges & Data
+338;NOV;National Oilwell Varco Inc.;https://en.wikipedia.org/wiki/National_Oilwell_Varco_Inc.;Energy;Oil & Gas Equipment & Services
+339;NKTR;Nektar Therapeutics;https://en.wikipedia.org/wiki/Nektar_Therapeutics;Health Care;Pharmaceuticals
+340;NTAP;NetApp;https://en.wikipedia.org/wiki/NetApp;Information Technology;Technology Hardware, Storage & Peripherals
+341;NFLX;Netflix Inc.;https://en.wikipedia.org/wiki/Netflix_Inc.;Communication Services;Movies & Entertainment
+342;NWL;Newell Brands;https://en.wikipedia.org/wiki/Newell_Brands;Consumer Discretionary;Housewares & Specialties
+343;NEM;Newmont Goldcorp;https://en.wikipedia.org/wiki/Newmont_Goldcorp;Materials;Gold
+344;NWSA;News Corp. Class A;https://en.wikipedia.org/wiki/News_Corp._Class_A;Communication Services;Publishing
+345;NWS;News Corp. Class B;https://en.wikipedia.org/wiki/News_Corp._Class_B;Communication Services;Publishing
+346;NEE;NextEra Energy;https://en.wikipedia.org/wiki/NextEra_Energy;Utilities;Multi-Utilities
+347;NLSN;Nielsen Holdings;https://en.wikipedia.org/wiki/Nielsen_Holdings;Industrials;Research & Consulting Services
+348;NKE;Nike;https://en.wikipedia.org/wiki/Nike_(company);Consumer Discretionary;Apparel, Accessories & Luxury Goods
+349;NI;NiSource Inc.;https://en.wikipedia.org/wiki/NiSource_Inc.;Utilities;Multi-Utilities
+350;NBL;Noble Energy Inc;https://en.wikipedia.org/wiki/Noble_Energy_Inc;Energy;Oil & Gas Exploration & Production
+351;JWN;Nordstrom;https://en.wikipedia.org/wiki/Nordstrom;Consumer Discretionary;Department Stores
+352;NSC;Norfolk Southern Corp.;https://en.wikipedia.org/wiki/Norfolk_Southern_Corp.;Industrials;Railroads
+353;NTRS;Northern Trust Corp.;https://en.wikipedia.org/wiki/Northern_Trust_Corp.;Financials;Asset Management & Custody Banks
+354;NOC;Northrop Grumman;https://en.wikipedia.org/wiki/Northrop_Grumman;Industrials;Aerospace & Defense
+355;NCLH;Norwegian Cruise Line Holdings;https://en.wikipedia.org/wiki/Norwegian_Cruise_Line_Holdings;Consumer Discretionary;Hotels, Resorts & Cruise Lines
+356;NRG;NRG Energy;https://en.wikipedia.org/wiki/NRG_Energy;Utilities;Independent Power Producers & Energy Traders
+357;NUE;Nucor Corp.;https://en.wikipedia.org/wiki/Nucor_Corp.;Materials;Steel
+358;NVDA;Nvidia Corporation;https://en.wikipedia.org/wiki/Nvidia_Corporation;Information Technology;Semiconductors
+359;NVR;NVR Inc;https://en.wikipedia.org/wiki/NVR_Inc;Consumer Discretionary;Homebuilding
+360;ORLY;O'Reilly Automotive;https://en.wikipedia.org/wiki/O%27Reilly_Automotive;Consumer Discretionary;Specialty Stores
+361;OXY;Occidental Petroleum;https://en.wikipedia.org/wiki/Occidental_Petroleum;Energy;Oil & Gas Exploration & Production
+362;OMC;Omnicom Group;https://en.wikipedia.org/wiki/Omnicom_Group;Communication Services;Advertising
+363;OKE;ONEOK;https://en.wikipedia.org/wiki/ONEOK;Energy;Oil & Gas Storage & Transportation
+364;ORCL;Oracle Corp.;https://en.wikipedia.org/wiki/Oracle_Corp.;Information Technology;Application Software
+365;PCAR;PACCAR Inc.;https://en.wikipedia.org/wiki/PACCAR_Inc.;Industrials;Construction Machinery & Heavy Trucks
+366;PKG;Packaging Corporation of America;https://en.wikipedia.org/wiki/Packaging_Corporation_of_America;Materials;Paper Packaging
+367;PH;Parker-Hannifin;https://en.wikipedia.org/wiki/Parker-Hannifin;Industrials;Industrial Machinery
+368;PAYX;Paychex Inc.;https://en.wikipedia.org/wiki/Paychex_Inc.;Information Technology;Data Processing & Outsourced Services
+369;PYPL;PayPal;https://en.wikipedia.org/wiki/PayPal;Information Technology;Data Processing & Outsourced Services
+370;PNR;Pentair plc;https://en.wikipedia.org/wiki/Pentair;Industrials;Industrial Machinery
+371;PBCT;People's United Financial;https://en.wikipedia.org/wiki/People%27s_United_Financial;Financials;Thrifts & Mortgage Finance
+372;PEP;PepsiCo Inc.;https://en.wikipedia.org/wiki/PepsiCo_Inc.;Consumer Staples;Soft Drinks
+373;PKI;PerkinElmer;https://en.wikipedia.org/wiki/PerkinElmer;Health Care;Health Care Equipment
+374;PRGO;Perrigo;https://en.wikipedia.org/wiki/Perrigo;Health Care;Pharmaceuticals
+375;PFE;Pfizer Inc.;https://en.wikipedia.org/wiki/Pfizer_Inc.;Health Care;Pharmaceuticals
+376;PM;Philip Morris International;https://en.wikipedia.org/wiki/Philip_Morris_International;Consumer Staples;Tobacco
+377;PSX;Phillips 66;https://en.wikipedia.org/wiki/Phillips_66;Energy;Oil & Gas Refining & Marketing
+378;PNW;Pinnacle West Capital;https://en.wikipedia.org/wiki/Pinnacle_West_Capital;Utilities;Multi-Utilities
+379;PXD;Pioneer Natural Resources;https://en.wikipedia.org/wiki/Pioneer_Natural_Resources;Energy;Oil & Gas Exploration & Production
+380;PNC;PNC Financial Services;https://en.wikipedia.org/wiki/PNC_Financial_Services;Financials;Regional Banks
+381;PPG;PPG Industries;https://en.wikipedia.org/wiki/PPG_Industries;Materials;Specialty Chemicals
+382;PPL;PPL Corp.;https://en.wikipedia.org/wiki/PPL_Corp.;Utilities;Electric Utilities
+383;PFG;Principal Financial Group;https://en.wikipedia.org/wiki/Principal_Financial_Group;Financials;Life & Health Insurance
+384;PG;Procter & Gamble;https://en.wikipedia.org/wiki/Procter_%26_Gamble;Consumer Staples;Personal Products
+385;PGR;Progressive Corp.;https://en.wikipedia.org/wiki/Progressive_Corp.;Financials;Property & Casualty Insurance
+386;PLD;Prologis;https://en.wikipedia.org/wiki/Prologis;Real Estate;Industrial REITs
+387;PRU;Prudential Financial;https://en.wikipedia.org/wiki/Prudential_Financial;Financials;Life & Health Insurance
+388;PEG;Public Serv. Enterprise Inc.;https://en.wikipedia.org/wiki/Public_Serv._Enterprise_Inc.;Utilities;Electric Utilities
+389;PSA;Public Storage;https://en.wikipedia.org/wiki/Public_Storage;Real Estate;Specialized REITs
+390;PHM;Pulte Homes Inc.;https://en.wikipedia.org/wiki/Pulte_Homes_Inc.;Consumer Discretionary;Homebuilding
+391;PVH;PVH Corp.;https://en.wikipedia.org/wiki/PVH_Corp.;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+392;QRVO;Qorvo;https://en.wikipedia.org/wiki/Qorvo;Information Technology;Semiconductors
+393;PWR;Quanta Services Inc.;https://en.wikipedia.org/wiki/Quanta_Services_Inc.;Industrials;Construction & Engineering
+394;QCOM;QUALCOMM Inc.;https://en.wikipedia.org/wiki/QUALCOMM_Inc.;Information Technology;Semiconductors
+395;DGX;Quest Diagnostics;https://en.wikipedia.org/wiki/Quest_Diagnostics;Health Care;Health Care Services
+396;RL;Ralph Lauren Corporation;https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+397;RJF;Raymond James Financial Inc.;https://en.wikipedia.org/wiki/Raymond_James_Financial_Inc.;Financials;Investment Banking & Brokerage
+398;RTN;Raytheon Co.;https://en.wikipedia.org/wiki/Raytheon_Co.;Industrials;Aerospace & Defense
+399;O;Realty Income Corporation;https://en.wikipedia.org/wiki/Realty_Income_Corporation;Real Estate;Retail REITs
+400;REG;Regency Centers Corporation;https://en.wikipedia.org/wiki/Regency_Centers_Corporation;Real Estate;Retail REITs
+401;REGN;Regeneron Pharmaceuticals;https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals;Health Care;Biotechnology
+402;RF;Regions Financial Corp.;https://en.wikipedia.org/wiki/Regions_Financial_Corp.;Financials;Regional Banks
+403;RSG;Republic Services Inc;https://en.wikipedia.org/wiki/Republic_Services_Inc;Industrials;Environmental & Facilities Services
+404;RMD;ResMed;https://en.wikipedia.org/wiki/ResMed;Health Care;Health Care Equipment
+405;RHI;Robert Half International;https://en.wikipedia.org/wiki/Robert_Half_International;Industrials;Human Resource & Employment Services
+406;ROK;Rockwell Automation Inc.;https://en.wikipedia.org/wiki/Rockwell_Automation_Inc.;Industrials;Electrical Components & Equipment
+407;ROL;Rollins Inc.;https://en.wikipedia.org/wiki/Rollins_Inc.;Industrials;Environmental & Facilities Services
+408;ROP;Roper Technologies;https://en.wikipedia.org/wiki/Roper_Technologies;Industrials;Industrial Conglomerates
+409;ROST;Ross Stores;https://en.wikipedia.org/wiki/Ross_Stores;Consumer Discretionary;Apparel Retail
+410;RCL;Royal Caribbean Cruises Ltd;https://en.wikipedia.org/wiki/Royal_Caribbean_Cruises_Ltd;Consumer Discretionary;Hotels, Resorts & Cruise Lines
+411;CRM;Salesforce.com;https://en.wikipedia.org/wiki/Salesforce.com;Information Technology;Application Software
+412;SBAC;SBA Communications;https://en.wikipedia.org/wiki/SBA_Communications;Real Estate;Specialized REITs
+413;SLB;Schlumberger Ltd.;https://en.wikipedia.org/wiki/Schlumberger_Ltd.;Energy;Oil & Gas Equipment & Services
+414;STX;Seagate Technology;https://en.wikipedia.org/wiki/Seagate_Technology;Information Technology;Technology Hardware, Storage & Peripherals
+415;SEE;Sealed Air;https://en.wikipedia.org/wiki/Sealed_Air_Corp.(New);Materials;Paper Packaging
+416;SRE;Sempra Energy;https://en.wikipedia.org/wiki/Sempra_Energy;Utilities;Multi-Utilities
+417;SHW;Sherwin-Williams;https://en.wikipedia.org/wiki/Sherwin-Williams;Materials;Specialty Chemicals
+418;SPG;Simon Property Group Inc;https://en.wikipedia.org/wiki/Simon_Property_Group_Inc;Real Estate;Retail REITs
+419;SWKS;Skyworks Solutions;https://en.wikipedia.org/wiki/Skyworks_Solutions;Information Technology;Semiconductors
+420;SLG;SL Green Realty;https://en.wikipedia.org/wiki/SL_Green_Realty;Real Estate;Office REITs
+421;SNA;Snap-on;https://en.wikipedia.org/wiki/Snap-on;Industrials;Industrial Machinery
+422;SO;Southern Co.;https://en.wikipedia.org/wiki/Southern_Co.;Utilities;Electric Utilities
+423;LUV;Southwest Airlines;https://en.wikipedia.org/wiki/Southwest_Airlines;Industrials;Airlines
+424;SPGI;S&P Global, Inc.;https://en.wikipedia.org/wiki/S%26P_Global,_Inc.;Financials;Financial Exchanges & Data
+425;SWK;Stanley Black & Decker;https://en.wikipedia.org/wiki/Stanley_Black_%26_Decker;Industrials;Industrial Machinery
+426;SBUX;Starbucks Corp.;https://en.wikipedia.org/wiki/Starbucks_Corp.;Consumer Discretionary;Restaurants
+427;STT;State Street Corp.;https://en.wikipedia.org/wiki/State_Street_Corp.;Financials;Asset Management & Custody Banks
+428;SYK;Stryker Corp.;https://en.wikipedia.org/wiki/Stryker_Corp.;Health Care;Health Care Equipment
+429;STI;SunTrust Banks;https://en.wikipedia.org/wiki/SunTrust_Banks;Financials;Regional Banks
+430;SIVB;SVB Financial;https://en.wikipedia.org/wiki/SVB_Financial;Financials;Regional Banks
+431;SYMC;Symantec Corp.;https://en.wikipedia.org/wiki/Symantec_Corp.;Information Technology;Application Software
+432;SYF;Synchrony Financial;https://en.wikipedia.org/wiki/Synchrony_Financial;Financials;Consumer Finance
+433;SNPS;Synopsys Inc.;https://en.wikipedia.org/wiki/Synopsys_Inc.;Information Technology;Application Software
+434;SYY;Sysco Corp.;https://en.wikipedia.org/wiki/Sysco_Corp.;Consumer Staples;Food Distributors
+435;TMUS;T-Mobile US;https://en.wikipedia.org/wiki/T-Mobile_US;Communication Services;Wireless Telecommunication Services
+436;TROW;T. Rowe Price Group;https://en.wikipedia.org/wiki/T._Rowe_Price_Group;Financials;Asset Management & Custody Banks
+437;TTWO;Take-Two Interactive;https://en.wikipedia.org/wiki/Take-Two_Interactive;Communication Services;Interactive Home Entertainment
+438;TPR;Tapestry, Inc.;https://en.wikipedia.org/wiki/Tapestry,_Inc.;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+439;TGT;Target Corp.;https://en.wikipedia.org/wiki/Target_Corp.;Consumer Discretionary;General Merchandise Stores
+440;TEL;TE Connectivity Ltd.;https://en.wikipedia.org/wiki/TE_Connectivity;Information Technology;Electronic Manufacturing Services
+441;FTI;TechnipFMC;https://en.wikipedia.org/wiki/TechnipFMC;Energy;Oil & Gas Equipment & Services
+442;TFX;Teleflex;https://en.wikipedia.org/wiki/Teleflex;Health Care;Health Care Equipment
+443;TXN;Texas Instruments;https://en.wikipedia.org/wiki/Texas_Instruments;Information Technology;Semiconductors
+444;TXT;Textron Inc.;https://en.wikipedia.org/wiki/Textron_Inc.;Industrials;Aerospace & Defense
+445;TMO;Thermo Fisher Scientific;https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific;Health Care;Health Care Equipment
+446;TIF;Tiffany & Co.;https://en.wikipedia.org/wiki/Tiffany_%26_Co.;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+447;TWTR;Twitter, Inc.;https://en.wikipedia.org/wiki/Twitter,_Inc.;Communication Services;Interactive Media & Services
+448;TJX;TJX Companies Inc.;https://en.wikipedia.org/wiki/TJX_Companies_Inc.;Consumer Discretionary;Apparel Retail
+449;TSCO;Tractor Supply Company;https://en.wikipedia.org/wiki/Tractor_Supply_Company;Consumer Discretionary;Specialty Stores
+450;TDG;TransDigm Group;https://en.wikipedia.org/wiki/TransDigm_Group;Industrials;Aerospace & Defense
+451;TRV;The Travelers Companies Inc.;https://en.wikipedia.org/wiki/The_Travelers_Companies_Inc.;Financials;Property & Casualty Insurance
+452;TRIP;TripAdvisor;https://en.wikipedia.org/wiki/TripAdvisor;Communication Services;Interactive Media & Services
+453;TSN;Tyson Foods;https://en.wikipedia.org/wiki/Tyson_Foods;Consumer Staples;Packaged Foods & Meats
+454;UDR;UDR, Inc.;https://en.wikipedia.org/wiki/UDR,_Inc.;Real Estate;Residential REITs
+455;ULTA;Ulta Beauty;https://en.wikipedia.org/wiki/Ulta_Beauty;Consumer Discretionary;Specialty Stores
+456;USB;U.S. Bancorp;https://en.wikipedia.org/wiki/U.S._Bancorp;Financials;Diversified Banks
+457;UAA;Under Armour Class A;https://en.wikipedia.org/wiki/Under_Armour;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+458;UA;Under Armour Class C;https://en.wikipedia.org/wiki/Under_Armour;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+459;UNP;Union Pacific Corp;https://en.wikipedia.org/wiki/Union_Pacific_Corp;Industrials;Railroads
+460;UAL;United Airlines Holdings;https://en.wikipedia.org/wiki/United_Airlines_Holdings;Industrials;Airlines
+461;UNH;United Health Group Inc.;https://en.wikipedia.org/wiki/United_Health_Group_Inc.;Health Care;Managed Health Care
+462;UPS;United Parcel Service;https://en.wikipedia.org/wiki/United_Parcel_Service;Industrials;Air Freight & Logistics
+463;URI;United Rentals, Inc.;https://en.wikipedia.org/wiki/United_Rentals,_Inc.;Industrials;Trading Companies & Distributors
+464;UTX;United Technologies;https://en.wikipedia.org/wiki/United_Technologies;Industrials;Aerospace & Defense
+465;UHS;Universal Health Services, Inc.;https://en.wikipedia.org/wiki/Universal_Health_Services,_Inc.;Health Care;Health Care Facilities
+466;UNM;Unum Group;https://en.wikipedia.org/wiki/Unum_Group;Financials;Life & Health Insurance
+467;VFC;V.F. Corp.;https://en.wikipedia.org/wiki/V.F._Corp.;Consumer Discretionary;Apparel, Accessories & Luxury Goods
+468;VLO;Valero Energy;https://en.wikipedia.org/wiki/Valero_Energy;Energy;Oil & Gas Refining & Marketing
+469;VAR;Varian Medical Systems;https://en.wikipedia.org/wiki/Varian_Medical_Systems;Health Care;Health Care Equipment
+470;VTR;Ventas Inc;https://en.wikipedia.org/wiki/Ventas_Inc;Real Estate;Health Care REITs
+471;VRSN;Verisign Inc.;https://en.wikipedia.org/wiki/Verisign_Inc.;Information Technology;Internet Services & Infrastructure
+472;VRSK;Verisk Analytics;https://en.wikipedia.org/wiki/Verisk_Analytics;Industrials;Research & Consulting Services
+473;VZ;Verizon Communications;https://en.wikipedia.org/wiki/Verizon_Communications;Communication Services;Integrated Telecommunication Services
+474;VRTX;Vertex Pharmaceuticals Inc;https://en.wikipedia.org/wiki/Vertex_Pharmaceuticals_Inc;Health Care;Biotechnology
+475;VIAB;Viacom Inc.;https://en.wikipedia.org/wiki/Viacom_Inc.;Communication Services;Movies & Entertainment
+476;V;Visa Inc.;https://en.wikipedia.org/wiki/Visa_Inc.;Information Technology;Data Processing & Outsourced Services
+477;VNO;Vornado Realty Trust;https://en.wikipedia.org/wiki/Vornado_Realty_Trust;Real Estate;Office REITs
+478;VMC;Vulcan Materials;https://en.wikipedia.org/wiki/Vulcan_Materials;Materials;Construction Materials
+479;WAB;Wabtec Corporation;https://en.wikipedia.org/wiki/Wabtec_Corporation;Industrials;Construction Machinery & Heavy Trucks
+480;WMT;Walmart;https://en.wikipedia.org/wiki/Walmart;Consumer Staples;Hypermarkets & Super Centers
+481;WBA;Walgreens Boots Alliance;https://en.wikipedia.org/wiki/Walgreens_Boots_Alliance;Consumer Staples;Drug Retail
+482;DIS;The Walt Disney Company;https://en.wikipedia.org/wiki/The_Walt_Disney_Company;Communication Services;Movies & Entertainment
+483;WM;Waste Management Inc.;https://en.wikipedia.org/wiki/Waste_Management_Inc.;Industrials;Environmental & Facilities Services
+484;WAT;Waters Corporation;https://en.wikipedia.org/wiki/Waters_Corporation;Health Care;Health Care Distributors
+485;WEC;Wec Energy Group Inc;https://en.wikipedia.org/wiki/Wec_Energy_Group_Inc;Utilities;Electric Utilities
+486;WCG;WellCare;https://en.wikipedia.org/wiki/WellCare;Health Care;Managed Health Care
+487;WFC;Wells Fargo;https://en.wikipedia.org/wiki/Wells_Fargo;Financials;Diversified Banks
+488;WELL;Welltower Inc.;https://en.wikipedia.org/wiki/Welltower_Inc.;Real Estate;Health Care REITs
+489;WDC;Western Digital;https://en.wikipedia.org/wiki/Western_Digital;Information Technology;Technology Hardware, Storage & Peripherals
+490;WU;Western Union Co;https://en.wikipedia.org/wiki/Western_Union_Co;Information Technology;Data Processing & Outsourced Services
+491;WRK;WestRock;https://en.wikipedia.org/wiki/WestRock;Materials;Paper Packaging
+492;WY;Weyerhaeuser;https://en.wikipedia.org/wiki/Weyerhaeuser;Real Estate;Specialized REITs
+493;WHR;Whirlpool Corp.;https://en.wikipedia.org/wiki/Whirlpool_Corp.;Consumer Discretionary;Household Appliances
+494;WMB;Williams Cos.;https://en.wikipedia.org/wiki/Williams_Cos.;Energy;Oil & Gas Storage & Transportation
+495;WLTW;Willis Towers Watson;https://en.wikipedia.org/wiki/Willis_Towers_Watson;Financials;Insurance Brokers
+496;WYNN;Wynn Resorts Ltd;https://en.wikipedia.org/wiki/Wynn_Resorts_Ltd;Consumer Discretionary;Casinos & Gaming
+497;XEL;Xcel Energy Inc;https://en.wikipedia.org/wiki/Xcel_Energy_Inc;Utilities;Multi-Utilities
+498;XRX;Xerox;https://en.wikipedia.org/wiki/Xerox;Information Technology;Technology Hardware, Storage & Peripherals
+499;XLNX;Xilinx;https://en.wikipedia.org/wiki/Xilinx;Information Technology;Semiconductors
+500;XYL;Xylem Inc.;https://en.wikipedia.org/wiki/Xylem_Inc.;Industrials;Industrial Machinery
+501;YUM;Yum! Brands Inc;https://en.wikipedia.org/wiki/Yum!_Brands_Inc;Consumer Discretionary;Restaurants
+502;ZBH;Zimmer Biomet Holdings;https://en.wikipedia.org/wiki/Zimmer_Holdings;Health Care;Health Care Equipment
+503;ZION;Zions Bancorp;https://en.wikipedia.org/wiki/Zions_Bancorp;Financials;Regional Banks
+504;ZTS;Zoetis;https://en.wikipedia.org/wiki/Zoetis;Health Care;Pharmaceuticals
